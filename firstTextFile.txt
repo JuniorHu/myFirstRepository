@@ -2,3 +2,5 @@ This is  study case for GitHub
 It is used for public first repository!
 It has uploaded to GitHub, this is the first revision.
 A new feature added from a branch named feature1.
+Bug reported
+this task will be assigned to Junior Hu.
