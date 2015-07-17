@@ -1,0 +1,2 @@
+this is test file to evaluate the log.
+how to get the commit diff information.
